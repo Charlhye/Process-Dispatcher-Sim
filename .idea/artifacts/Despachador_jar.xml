@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Despachador:jar">
+    <output-path>$PROJECT_DIR$/../IntelliJ proj/Despachador</output-path>
+    <root id="archive" name="Despachador.jar">
+      <element id="module-output" name="Despachador" />
+    </root>
+  </artifact>
+</component>
